@@ -4,6 +4,7 @@
 קישור לתיעוד הניסויים (Google Sheets): (https://docs.google.com/spreadsheets/d/1OSln1m4xyEZOwpjMcSqO03fHaKyFTdcQKeVcgQDbIq4/edit?usp=sharing)
 
 סיכום תהליך השיפור (Iteration Log)
+
 איטרציה 1: גרסה בסיסית (MVP)
 
 מטרה: בניית ממשק ראשוני הממיר שפה טבעית לפקודות CLI.
